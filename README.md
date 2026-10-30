@@ -13,7 +13,7 @@ Nightfeed is a night-vision VHS look for KDE Plasma 6, built around a cobalt-lit
 - A Konsole profile with Terminess, a slight translucency and blur, and roomy margins.
 - A kitty theme with matching tab and border colours.
 
-
+![desktop](screenshots/desktop.jpg)
 
 ## Requirements
 
